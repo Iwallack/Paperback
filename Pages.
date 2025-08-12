@@ -1,1 +1,6 @@
 Pages/.keep
+$ git rm <Pages.>
+
+$ git commit -m "Deleted the file from the git repository"
+
+$ git push
